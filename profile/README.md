@@ -1,8 +1,9 @@
-<p align="center"><img width="525" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png"></p>
+<img width="525" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png">
 
-<h3 align="center">Welcome to ePlay's Community :wave:</h2>
+### :wave: Welcome to ePlay's Community :wave:
+[`Community Guidelines`](https://www.eplay.academy/kb/guide/en/community-guidelines-6b4uiF0Gr4/Steps/625388)
 
-
+&nbsp;
 ### `❤️ LIVE CHAT`
 
 > Chat with other fellow streamers and creators, but also connect with the ePlay staff! As we value transparency, and we thrive on working with amazing people like you, we're always here to help and assist you. Join our Discord or chat with our technicians today!
