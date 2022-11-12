@@ -7,7 +7,8 @@
 
 > Chat with other fellow streamers and creators, but also connect with the ePlay staff! As we value transparency, and we thrive on working with amazing people like you, we're always here to help and assist you. Join our Discord or chat with our technicians today!
 > 
-> ![discord-btn](https://user-images.githubusercontent.com/7132783/201472912-cfeac848-3a62-428b-b597-d1dc2ae3d443.png) &nbsp; ![Chatwithsupport](https://user-images.githubusercontent.com/7132783/201472914-be872469-cd5f-4836-bc62-cabdd9c6c08b.png)
+> [![discord-btn](https://user-images.githubusercontent.com/7132783/201472912-cfeac848-3a62-428b-b597-d1dc2ae3d443.png)](https://discord.gg/eplay) &nbsp; ![Chatwithsupport](https://user-images.githubusercontent.com/7132783/201474486-79dc3ec9-36d2-42ce-a6bd-45aee0d0b001.png)
+
 &nbsp;
 
 ### `💬 DISCUSSIONS`
