@@ -1,7 +1,7 @@
-<img width="525" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png">
+<img width="70%" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201223119-625494b0-7a9c-493b-b295-9bf5fe6bac3c.png">
 
-### :wave: Welcome to ePlay's Community :wave:
-[`Community Guidelines`](https://www.eplay.academy/kb/guide/en/community-guidelines-6b4uiF0Gr4/Steps/625388)
+# :wave: Welcome to ePlay's Community :wave:
+[`Community Guidelines`](https://www.eplay.academy/kb/guide/en/community-guidelines-6b4uiF0Gr4/Steps/625388) - [`Privacy Policy`](https://www.eplay.com/privacy-policy) - [`support@eplay.com`](mailto:support@eplay.com)
 
 &nbsp;
 ### `❤️ LIVE CHAT`
