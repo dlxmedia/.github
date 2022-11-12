@@ -20,7 +20,7 @@
 ### `💡 NEW FEATURES & IDEAS`
 > Got an idea to share? or simply wants to upvote the next features you'd like us to add to ePlay? You're in the right place! 
 > 
-> [![Upvotenextfeatures](https://user-images.githubusercontent.com/7132783/201473118-7978b58a-aa06-42df-95cb-e4e9dba6c5ab.png)](https://github.com/dlxmedia/community/discussions/categories/feature-ideas) &nbsp; [![RequestaFeature](https://user-images.githubusercontent.com/7132783/201472957-13c339bb-46bc-4e19-a113-1640b5a60184.png)](https://github.com/dlxmedia/community/issues/new/choose) &nbsp; [![Shareandidea](https://user-images.githubusercontent.com/7132783/201472961-ab30a4f2-a91b-46e5-92f0-9581e707cbb7.png)](https://github.com/dlxmedia/community/discussions/new?category=feature-ideas)
+> [![RequestaFeature](https://user-images.githubusercontent.com/7132783/201472957-13c339bb-46bc-4e19-a113-1640b5a60184.png)](https://github.com/dlxmedia/community/issues/new?assignees=&labels=%3Abulb%3A+IDEA&template=2_Feature_request.yaml&title=%5BREQUEST%5D+) &nbsp; [![Upvotenextfeatures](https://user-images.githubusercontent.com/7132783/201473118-7978b58a-aa06-42df-95cb-e4e9dba6c5ab.png)](https://github.com/dlxmedia/community/discussions/categories/feature-ideas) &nbsp; [![Shareandidea](https://user-images.githubusercontent.com/7132783/201472961-ab30a4f2-a91b-46e5-92f0-9581e707cbb7.png)](https://github.com/dlxmedia/community/discussions/new?category=feature-ideas)
 
 &nbsp;
 ### `🐞 BUGS AND ISSUES`
