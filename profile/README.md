@@ -1,7 +1,7 @@
 <img width="65%" alt="ePlay logo Solid" src="https://user-images.githubusercontent.com/7132783/201481166-432c92dd-89c1-486d-a5b9-8ef1c167c755.png">
 
 # Welcome to ePlay's Community 
-[`Community Guidelines`](https://www.eplay.academy/kb/guide/en/community-guidelines-6b4uiF0Gr4/Steps/625388) - [`Privacy Policy`](https://www.eplay.com/privacy-policy) - [`support@eplay.com`](mailto:support@eplay.com)
+[`Privacy Policy`](https://www.eplay.com/privacy-policy) - [`support@eplay.com`](mailto:support@eplay.com)
 
 &nbsp;
 ### `❤️ LIVE CHAT`
